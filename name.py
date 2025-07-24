@@ -1,0 +1,5 @@
+print("Name       : K V Purushotham")
+print("Roll No    : 24BFA32081")
+print("College    : Sri Venkateshwara College of Engineering")
+print("Subject    : Python Programming")
+print ("Department : CSD - B")
